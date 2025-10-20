@@ -249,5 +249,65 @@ Title Page
     </tbody>
   </table>
 </div>
-        
+
+---
+layout: statement
+---
+What stands out to you?
+
+What do you have questions about?
+
+---
+
+# These Things Stand Out To Us:
+
+---
+
+<Youtube id="BVCBw05iM74" />
+
+---
+
+# Small Groups
+
+## Where does the lesson best fit on the chart?
+## Why?
+
+---
+
+# Whole Group
+## Thoughts on this lesson?
+
+---
+layout: fact
+---
+
+Think of a lesson you recently taught or will soon teach.
+
+---
+layout: fact
+---
+
+Where does your lesson fit on the charts?
+
+---
+layout: center
+---
+
+# What can be done to improve the lesson in terms of DOK?
+
+## - What questions can be asked?
+
+## - How might the lesson be adjusted?
+
+## - Etc.
+
+---
+layout: center
+---
+
+# Create your plan
+
+## How do your planned changes increase the rigor of the lesson?
+
+---
 
