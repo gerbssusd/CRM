@@ -135,7 +135,9 @@ Title Page
           <ul>
             <li>Compare two different methods for determining the product for 29 × 56.</li>
             <li>When is each method the “best” to use? Why?</li>
-          </ul>Create an equation to model the approximate speed of a runner during an 800 km race.
+          </ul>
+          ---
+          <p>Create an equation to model the approximate speed of a runner during an 800 km race.</p>
         </td>
       </tr>
       <tr>
