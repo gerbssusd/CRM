@@ -205,8 +205,7 @@ Title Page
             <li>Can you explain how ____ ?</li>
             <li>What was the cause of ____?</li>
             <li>How would you compare ____? Contrast_____?</li>
-            <li>How would you classify____?
-            <li>What would you use to classify___?</li>
+            <li>How would you classify____? What would you use to classify___?</li>
             <li>How are____alike? Different?</li>
             <li>What can you say about____?</li>
             <li>How would you summarize ____?</li>
