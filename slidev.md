@@ -182,6 +182,7 @@ Title Page
         <td>Designs, takes risks, researches synthesizing multiple resources, collaborates, plans, organizes, and modifies, creates concrete tangible product</td>
       </tr>
       <tr>
+        <td>Question Stems</td>
         <td>
           <ul>
             <li> Can you recall______?</li>
