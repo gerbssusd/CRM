@@ -69,7 +69,7 @@ Title Page
             <li>Identify a pattern/trend</li>
            </ul>
          </td> 
-         <td> <p>Multiply 29 × 56</p><p>Graph y = 2x + 5</p></td>
+         <td> <p>Multiply 29 × 56</p> === <p>Graph y = 2x + 5</p></td>
       </tr>
       <tr>
         <td>DOK 2 Basic Application of Skills/Concepts</td>
