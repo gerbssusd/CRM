@@ -198,8 +198,6 @@ Title Page
             describe___?</li>
           </ul>
         </td>
-      </tr>
-      <tr>
         <td>
           <ul>
             <li>How or why would you use ____?</li>
