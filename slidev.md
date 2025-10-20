@@ -252,9 +252,9 @@ Title Page
 ---
 layout: statement
 ---
-What stands out to you?
+# What stands out to you?
 
-What do you have questions about?
+# What do you have questions about?
 
 ---
 
@@ -280,13 +280,13 @@ What do you have questions about?
 layout: fact
 ---
 
-Think of a lesson you recently taught or will soon teach.
+# Think of a lesson you recently taught or will soon teach.
 
 ---
 layout: fact
 ---
 
-Where does your lesson fit on the charts?
+# Where does your lesson fit on the charts?
 
 ---
 layout: center
@@ -294,11 +294,11 @@ layout: center
 
 # What can be done to improve the lesson in terms of DOK?
 
-## - What questions can be asked?
+- ## What questions can be asked?
 
-## - How might the lesson be adjusted?
+- ## How might the lesson be adjusted?
 
-## - Etc.
+- ## Etc.
 
 ---
 layout: center
