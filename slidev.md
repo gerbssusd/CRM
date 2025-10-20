@@ -103,7 +103,7 @@ Title Page
             <li<>Explain your reasoning for how you made your estimate.</li>
             <li<>Use an area model to demonstrate 29 × 56.</li>
           </ul>
-        </hr> pare the graphs of y = 2x + 5 and y = –2x + 5
+        <p> pare the graphs of y = 2x + 5 and y = –2x + 5</p>
         </td>
       </tr>
       <tr>
@@ -140,6 +140,7 @@ Title Page
         </td>
       </tr>
       <tr>
+        <td>DOK 4 Extended Thinking</td>
         <td>Relate mathematical concepts to other content areas, other domains, or other concepts</td>
         <td>Conduct a project that specifies a problem, identifies solution paths, solves the problem, and reports results</td>
         <td>Apply understanding in a novel way, provide argument or justification for the application</td>
