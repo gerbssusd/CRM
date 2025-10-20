@@ -29,6 +29,8 @@ Title Page
 -->
 
 ---
+class: scroll-box
+---
 
 # Webb's Depth of Knowledge (DOK) with Descriptions form Hess' Cognitive Rigor Matrix (CRM)
 
@@ -265,12 +267,16 @@ layout: statement
 <Youtube id="BVCBw05iM74" />
 
 ---
+layout: center
+---
 
 # Small Groups
 
 ## Where does the lesson best fit on the chart?
 ## Why?
 
+---
+layout: center
 ---
 
 # Whole Group
@@ -308,5 +314,12 @@ layout: center
 
 ## How do your planned changes increase the rigor of the lesson?
 
+---
+layout: end
+---
+
+# May the best day of your past 
+# be the worst day of your future.
+## Sláinte!
 ---
 
