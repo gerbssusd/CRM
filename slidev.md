@@ -57,53 +57,52 @@ Title Page
         <td>
           <ul>
             <li>Follow simple procedures</li>
-            <li<>Calculate, measure, apply a
-            rule</li>
-            <li<>Apply an algorithm or formula</li>
-            <li<>Solve linear equations</li>
+            <li>Calculate, measure, apply a rule</li>
+            <li>Apply an algorithm or formula</li>
+            <li>Solve linear equations</li>
            </ul>
          </td>
          <td>
            <ul>
              <li>Retrieve information from a table or graph to answer a question</li>
-            <li<>Identify whether specific information is contained in graphic representations</li>
-            <li<>Identify a pattern/trend</li>
+            <li>Identify whether specific information is contained in graphic representations</li>
+            <li>Identify a pattern/trend</li>
            </ul>
          </td> 
-         <td> Multiply 29 × 56 </hr> Graph y = 2x + 5</td>
+         <td> <p>Multiply 29 × 56</p><p>Graph y = 2x + 5</p></td>
       </tr>
       <tr>
         <td>DOK 2 Basic Application of Skills/Concepts</td>
         <td>
           <ul>
             <li>Explain relationships (e.g.,cause-effect, nonexamples/examples)</li>
-            <li<>Summarize results or concepts</li>
-            <li<>Use models/diagrams to represent or explain math concepts</li>
-            <li<>Make or explain estimates</li>
+            <li>Summarize results or concepts</li>
+            <li>Use models/diagrams to represent or explain math concepts</li>
+            <li>Make or explain estimates</li>
           </ul>
         </td>
         <td>
           <ul>
             <li>Solve routine problems, applying multiple concepts or decision points</li>
-            <li<>Retrieve information from a table, graph, or figure to solve a problem</li>
-            <li<>Translate between tables, graphs, words, and symbolic notations </li>
+            <li>Retrieve information from a table, graph, or figure to solve a problem</li>
+            <li>Translate between tables, graphs, words, and symbolic notations </li>
           </ul>
           </td>
         <td>
           <ul>
             <li>Categorize, classify, and/or organize materials, data, or figures based on characteristics</li>
-            <li<>Compare/contrast figures or data</li>
-            <li<>Organize data and select appropriate display</li>
-            <li<>Extend a pattern</li>
+            <li>Compare/contrast figures or data</li>
+            <li>Organize data and select appropriate display</li>
+            <li>Extend a pattern</li>
           </ul>
         </td>
         <td>
           <ul>
             <li>Estimate 29 × 56.</li>
-            <li<>Explain your reasoning for how you made your estimate.</li>
-            <li<>Use an area model to demonstrate 29 × 56.</li>
+            <li>Explain your reasoning for how you made your estimate.</li>
+            <li>>Use an area model to demonstrate 29 × 56.</li>
           </ul>
-        <p> pare the graphs of y = 2x + 5 and y = –2x + 5</p>
+        <p>compare the graphs of y = 2x + 5 and y = –2x + 5</p>
         </td>
       </tr>
       <tr>
@@ -111,25 +110,25 @@ Title Page
         <td>
           <ul>
             <li>Explain, generalize, or connect and build on mathematical ideas/concepts using evidence</li>
-            <li<>Make and justify conjectures</li>
-            <li<>Explain thinking when more than one response/solution is possible</li>
-            <li<>Explain real world phenomena in terms of math concepts or models</li>
+            <li>Make and justify conjectures</li>
+            <li>Explain thinking when more than one response/solution is possible</li>
+            <li>Explain real world phenomena in terms of math concepts or models</li>
           </ul>
         </td>
         <td>
           <ul>
             <li>Solve nonroutine problems</li>
-            <li<>Use and show reasoning and evidence</li>
-            <li<>Translate between problem and mathematical modeling when not a direct translation</li>
-            <li<>Develop a mathematical model for a complex situation</li>
+            <li>Use and show reasoning and evidence</li>
+            <li>Translate between problem and mathematical modeling when not a direct translation</li>
+            <li>Develop a mathematical model for a complex situation</li>
           </ul>
         </td>
         <td>
           <ul>
             <li>Generalize a pattern</li>
-            <li<>Analyze similarities/differences between procedures or solutions</li>
-            <li<>Analyze and draw conclusions from data, citing evidence</li>
-            <li<>Cite evidence and develop a logical argument for solutions</li>
+            <li>Analyze similarities/differences between procedures or solutions</li>
+            <li>Analyze and draw conclusions from data, citing evidence</li>
+            <li>Cite evidence and develop a logical argument for solutions</li>
           </ul>
         </td>
         <td>
