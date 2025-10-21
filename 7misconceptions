@@ -1,0 +1,102 @@
+---
+theme: seriph
+
+background: https://cover.sli.dev
+
+title: 7 Misconceptions about Rigor and DOK
+info: |
+  ## Karin Hess' Clarification
+
+# apply unocss classes to the current slide
+class: text-center
+# https://sli.dev/features/drawing
+drawings:
+  persist: false
+# slide transition: https://sli.dev/guide/animations.html#slide-transitions
+transition: slide-left
+# enable MDC Syntax: https://sli.dev/features/mdc
+mdc: true
+---
+
+# Seven Misconceptions about Rigor and DOK
+
+<!--
+Title Page
+-->
+
+---
+layout: two-cols
+---
+
+# All students can't think deeply; all students shouldnt need scaffolding to support deeper thinking.  
+
+::right::
+
+## All leearners benefit from supports; All students can think deeply
+
+---
+# DOK should function as a taxonomy
+
+```mermaid
+
+timeline
+    title DOK as Timeline
+    section Foundational Skills
+        DOK1 : Scaffolds that develop recall and reproduction
+        DOK2 : Scaffolds that aid in acquisition of basic skills and understanding of basic concepts
+     section Deeper Thinking   
+        DOK3 : Scaffolds that support strategic thinking and reasoning
+        Dok4 : Scaffolds that support extended thinking
+        
+```
+
+---
+layout: two-cols
+---
+
+# Verb Lists = ODK
+
+::right::
+
+- ## Verbs describe *types* of thinking, not depthof understaning or levels of cognitive engagement.
+
+- ## Verbs have no content; verbs apply differently in different content areas.
+
+- ## Some verbs appear in multiple levels of Bloom's; this makes them subjective.
+
+- ## The complexity of a task or activity comes **_AFTER_** the verb.
+
+---
+layout: two-cols
+---
+
+# DOK is about greater difficulty, more effort, or learning to do harder things.
+
+::right::
+
+## Cognitive Rigor
+
+is thinking flexibly and seeing multiple possibilities, approaches, perspecives
+
+---
+layout: two-cols
+---
+
+# You can assess all DOK levels with MCQ's
+
+::right::
+
+- ## Constructed-response
+- ## Performance Tasks
+- ## Extended Projects
+
+---
+layout: two-cols
+---
+
+# Higher order thinking always leads to deeper understanding
+
+::right::
+
+- ## Critical thinking requires a conceptual foundation (DOK2)
+- ## Deeper understanding is the application of understanding to more complex contexts
